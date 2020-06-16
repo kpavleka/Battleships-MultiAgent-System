@@ -12,3 +12,9 @@ C:\BattleshipsByKarlo\obj\x86\Debug\BattleshipsByKarlo.csproj.CoreCompileInputs.
 C:\BattleshipsByKarlo\obj\x86\Debug\BattleshipsByKarlo.csproj.CopyComplete
 C:\BattleshipsByKarlo\obj\x86\Debug\ConsoleApplication.exe
 C:\BattleshipsByKarlo\obj\x86\Debug\ConsoleApplication.pdb
+D:\Battleships\bin\Debug\ConsoleApplication.exe
+D:\Battleships\bin\Debug\ConsoleApplication.pdb
+D:\Battleships\obj\x86\Debug\BattleshipsByKarlo.csprojAssemblyReference.cache
+D:\Battleships\obj\x86\Debug\BattleshipsByKarlo.csproj.CopyComplete
+D:\Battleships\obj\x86\Debug\ConsoleApplication.exe
+D:\Battleships\obj\x86\Debug\ConsoleApplication.pdb
