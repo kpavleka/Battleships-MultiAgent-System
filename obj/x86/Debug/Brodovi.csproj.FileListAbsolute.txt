@@ -1,0 +1,7 @@
+C:\Users\Karlo\Downloads\BattleshipConsole-master\bin\Debug\ConsoleApplication.exe
+C:\Users\Karlo\Downloads\BattleshipConsole-master\bin\Debug\ConsoleApplication.pdb
+C:\Users\Karlo\Downloads\BattleshipConsole-master\obj\x86\Debug\Brodovi.csprojAssemblyReference.cache
+C:\Users\Karlo\Downloads\BattleshipConsole-master\obj\x86\Debug\Brodovi.csproj.CoreCompileInputs.cache
+C:\Users\Karlo\Downloads\BattleshipConsole-master\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Karlo\Downloads\BattleshipConsole-master\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\Karlo\Downloads\BattleshipConsole-master\obj\x86\Debug\Brodovi.csproj.CopyComplete

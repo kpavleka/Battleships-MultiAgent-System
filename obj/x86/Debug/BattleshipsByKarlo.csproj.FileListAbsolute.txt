@@ -1,0 +1,14 @@
+C:\Users\Karlo\Downloads\BattleshipsByKarlo\bin\Debug\ConsoleApplication.exe
+C:\Users\Karlo\Downloads\BattleshipsByKarlo\bin\Debug\ConsoleApplication.pdb
+C:\Users\Karlo\Downloads\BattleshipsByKarlo\obj\x86\Debug\BattleshipsByKarlo.csprojAssemblyReference.cache
+C:\Users\Karlo\Downloads\BattleshipsByKarlo\obj\x86\Debug\BattleshipsByKarlo.csproj.CoreCompileInputs.cache
+C:\Users\Karlo\Downloads\BattleshipsByKarlo\obj\x86\Debug\BattleshipsByKarlo.csproj.CopyComplete
+C:\Users\Karlo\Downloads\BattleshipsByKarlo\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Karlo\Downloads\BattleshipsByKarlo\obj\x86\Debug\ConsoleApplication.pdb
+C:\BattleshipsByKarlo\bin\Debug\ConsoleApplication.exe
+C:\BattleshipsByKarlo\bin\Debug\ConsoleApplication.pdb
+C:\BattleshipsByKarlo\obj\x86\Debug\BattleshipsByKarlo.csprojAssemblyReference.cache
+C:\BattleshipsByKarlo\obj\x86\Debug\BattleshipsByKarlo.csproj.CoreCompileInputs.cache
+C:\BattleshipsByKarlo\obj\x86\Debug\BattleshipsByKarlo.csproj.CopyComplete
+C:\BattleshipsByKarlo\obj\x86\Debug\ConsoleApplication.exe
+C:\BattleshipsByKarlo\obj\x86\Debug\ConsoleApplication.pdb
